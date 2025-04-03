@@ -50,21 +50,20 @@ This is a **Profile Explorer Web Application** built using **React/Angular** tha
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/profile-explorer.git
+   git clone https://github.com/Atharvajoshiii/profile-explorer.git
    cd profile-explorer
    ```
 
 2. **Install Dependencies**
    ```sh
    npm install  # for React
-   # OR
-   npm install -g @angular/cli && npm install  # for Angular
+
    ```
 
 3. **Set Up API Keys** (if using Mapbox/Google Maps)
    - Create a `.env` file and add your API keys:
      ```env
-     REACT_APP_MAPBOX_API_KEY=your_mapbox_key
+     
      REACT_APP_GOOGLE_MAPS_API_KEY=your_google_maps_key
      ```
 
